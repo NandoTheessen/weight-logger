@@ -1,0 +1,18 @@
+{
+  "name": "weight-watch",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "fusioncharts": "^3.12.2",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-fusioncharts": "^1.0.5",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
